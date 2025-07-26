@@ -52,6 +52,10 @@ th, td {
     text-align: justify;
 }
 
+.tfoot {
+    text-align: center;
+}
+
 th {
     background-color: #3498db;
     color: white;
